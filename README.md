@@ -1,8 +1,8 @@
 # FULL_ADDER_SUBTRACTOR
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
-## Anbuselvan S
-## Reg no: 212223240008
+## Arunraj R
+## Reg no: 212224110006
 
 **AIM:**
 
